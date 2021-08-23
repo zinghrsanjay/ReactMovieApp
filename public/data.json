@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Bell Bottom",
+        "subtitle": "Bell Bottom",
+        "description": "lives up to the charm of a Bollywood, big-scale commercial film that deserved to be released on the big screen.",
+        "imageUrl": "../images/bellbottom.jpg",
+        "rating": 3.5
+    },
+    {
+        "id": 2,
+        "title": "Bhuj",
+        "subtitle": "The Pride Of India",
+        "description": "The film follows the career highs and lows of the former world no 1, India’s ace shuttler, Saina Nehwal. It also pays tribute to the people who immensely contribute to her resilience and unbreakable",
+        "imageUrl": "../images/Bhuj.jpg",
+        "rating": 4.5
+    },
+    {
+        "id": 3,
+        "title": "Gangubai",
+        "subtitle": "Gangubai",
+        "description": "lives up to the charm of a Bollywood, big-scale commercial film that deserved to be released on the big screen.",
+        "imageUrl": "../images/gangubai.jpg",
+        "rating": 5
+    }
+   
+]
